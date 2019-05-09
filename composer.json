@@ -1,0 +1,18 @@
+{
+    "name": "xYundy/L5WebCreatorOAuth",
+    "description": "3w1 OAuth2 Provider for Laravel Socialite",
+    "license": "MIT",
+    "authors": [{
+        "name": "Wojciech Zięciak",
+        "email": "wojtek@level5.pl"
+    }],
+    "require": {
+        "php": "^5.6 || ^7.0",
+        "socialiteproviders/manager": "~2.0 || ~3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "SocialiteProviders\\L5_3w1\\": ""
+        }
+    }
+}
