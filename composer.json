@@ -12,7 +12,7 @@
     },
     "autoload": {
         "psr-4": {
-            "SocialiteProviders\\L5_3w1\\": ""
+            "xYundy\\L5WebCreatorOAuth\\": ""
         }
     }
 }
